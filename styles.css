@@ -1,1 +1,10 @@
 ::backdrop
+div {
+  color: #ff0000;
+  padding: 1rem 2rem;
+}
+
+.container {
+  background-color: #ff0000;
+  padding: 1rem 2rem;
+}
